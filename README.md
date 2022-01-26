@@ -1,4 +1,4 @@
-# **DESENVOLVIMENTO WEB CLIENTE**
+# **INTERAÇÃO HUMANO COMPUTADOR**
 
 <a href="https://github.com/devweslen/subject-ihc/blob/main/EN-US.md">
  <img

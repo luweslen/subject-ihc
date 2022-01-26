@@ -1,4 +1,4 @@
-# **CLIENT WEB DEVELOPMENT**
+# **HUMAN COMPUTER INTERACTION**
 
 <a href="https://github.com/devweslen/subject-dw/blob/main/README.md">
  <img
@@ -9,11 +9,11 @@
 
 ## 📙 **About**
 
-Repository to store activities/notes developed in the **Interação Humano Computador** course in the **Tecnologia em Analise e Desenvolvimento de Sistemas** course at the **Instituto Federal do Paraná**.
+Repository to store activities/notes developed in the **Human Computer Interaction** course in the **Tecnologia em Analise e Desenvolvimento de Sistemas** course at the **Instituto Federal do Paraná**.
 
 > **College:** [Instituto Federal do Paraná - campus Londrina](https://londrina.ifpr.edu.br) \
 > **Course:** [Tecnologia em Analise e Desenvolvimento de Sistemas](https://londrina.ifpr.edu.br/tecnologia-em-analise-e-desenvolvimento-de-sistemas/componentes-curriculares/) \
-> **Subject:** Interação Humano Computador (IHC) \
+> **Subject:** Human Computer Interaction \
 > **Professor:** [Fernando Accorsi](https://www.linkedin.com/in/fernando-accorsi-b6252823/)
 
 ## 📙 **Folders**
